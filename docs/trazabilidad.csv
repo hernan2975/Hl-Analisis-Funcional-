@@ -1,0 +1,5 @@
+Requisito,Historia de Usuario,Caso de Prueba,Estado
+RF-101,US-01,TC-AUTH-01,Completado
+RF-102,US-02,TC-PAGO-01,Completado
+RF-103,US-03,TC-APROB-01,En progreso
+RF-104,US-04,TC-REPORTE-01,Pendiente
