@@ -11,8 +11,8 @@ analisis-sistema-bancario-digital/
 │   │   ├── casos-de-uso.bpmn        (archivo .bpmn o .png)
 │   │   ├── diagrama-actividades.png
 │   │   └── modelo-clases.png
-│   ├── 5_trazabilidad.xlsx
-│   └── 6_acta-reunion-equipos.md
+│   ├── trazabilidad.xlsx
+│   └── 5_acta-reunion-equipos.md
 ├── assets/
 │   └── logo-banco-ficticio.png
 └── CONTRIBUTING.md              
